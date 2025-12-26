@@ -19,18 +19,18 @@ Note: Sound effect is implemented but not shown in GIF by its property.
 
 ---
 
+## Setup Instructions (Chrome)
+
 **Prerequisites**
 
 - Flutter SDK (stable channel)
 - Google Chrome installed
 
----
-
-## Setup Instructions (Chrome)
+**Steps**
 
 ```bash
 git clone https://github.com/Mike-Animal-Counseling/shopping-list-flutter.git
-cd chunky_shopping_list
+cd shopping-list-flutter
 
 flutter pub get
 flutter config --enable-web
